@@ -203,3 +203,5 @@ document.getElementById('startBtn').addEventListener('click',()=>{
 // init draw
 for(let y=0;y<ROWS;y++) for(let x=0;x<COLS;x++) board[y][x]=0;
 draw();
+
+// assistant tweak: small comment to trigger PR
