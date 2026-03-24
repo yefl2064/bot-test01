@@ -15,3 +15,5 @@ Controls:
 - P: pause
 
 Open index.html in a modern browser to play.
+
+Version 2: assistant PR trigger at 2026-03-24T09:02:31Z (UTC)
